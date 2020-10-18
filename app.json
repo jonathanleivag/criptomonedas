@@ -1,0 +1,12 @@
+{
+  "name": "criptomonedas",
+  "displayName": "criptomonedas",
+  "expo": {
+    "name": "criptomonedas",
+    "slug": "criptomonedas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
